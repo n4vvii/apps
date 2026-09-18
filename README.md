@@ -4,7 +4,7 @@ Sideload builds (`.ipa`) of my iOS apps. Binaries live in **[Releases](https://g
 
 | App | Latest | Download | Requires |
 |---|---|---|---|
-| PriceMemo — unit price comparison, memo & shopping list | v1.0 | [PriceMemo.ipa](https://github.com/n4vvii/apps/releases/download/pricememo-v1.0/PriceMemo.ipa?download=1) | iOS 17.0+ |
+| PriceMemo — unit price comparison, memo & shopping list | v1.0 | [PriceMemo.ipa](https://github.com/n4vvii/apps/releases/download/pricememo-v1.0/PriceMemo.ipa?download=2) | iOS 17.0+ |
 
 ## How to install
 
